@@ -2,17 +2,17 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 /*
-	* Create By Naze
-	* Follow https://github.com/nazedev
-	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
+	* Create By IlhamV66
+	* Follow https://github.com/Hatsuga-HOST
+	* Whatsapp : https://whatsapp.com/channel/0029Vay2mjPLY6cz0vkzjS3R
 */
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] //['628','628'] 2 owner
+global.owner = ['6288905833255'] //['628','628'] 2 owner
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = 'IlhamV66,PicaImut'
+global.botname = 'Pica Bot'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
@@ -28,14 +28,14 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/B5qJIwZHm4VEYZJQE6iMwy',
+	yt: 'https://youtube.com/c/IlhamV66',
+	gh: 'https://github.com/Hatsuga-HOST',
+	gc: 'https://chat.whatsapp.com/DAt3qUz6JZx2bkyG2glXse',
 	ch: '120363250409960161@newsletter',
 }
 
 global.limit = {
-	free: 20,
+	free: 20000000000000,
 	premium: 999,
 	vip: 9999
 }
